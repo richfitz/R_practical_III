@@ -54,7 +54,7 @@
 # git status
 # git add
 # git commit
-# git log
+# git log - this is for the history
 # git diff
 
 
